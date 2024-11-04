@@ -49,10 +49,8 @@ The following machine learning models were trained and evaluated:
 2. **Support Vector Machine (SVM)**
 3. **Decision Tree**
 4. **Logistic Regression**
-5. **Passive Aggressive Classifier**
-6. **AdaBoost**
-7. **Gradient Boosting**
-8. **Multilayer Perceptron (MLP)**
+5. **Multilayer Perceptron (MLP)**
+6. **LSTM**
 
 ## Data Preprocessing
 1. **Tokenization**: Tokenizing text into words and sentences.
